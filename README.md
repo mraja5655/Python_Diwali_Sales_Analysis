@@ -1,4 +1,4 @@
 # Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+Python project - Analyze Diwali sales data to improve customer experience and sales
 
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+![image](https://github.com/user-attachments/assets/e7f4dee3-8bb0-49fd-89e4-43cddf249e3f)
